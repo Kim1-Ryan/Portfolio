@@ -18,6 +18,12 @@ npm run preview
 
 Publish the `dist` folder to a static host. The build includes both the portfolio and playground pages and supports subfolder hosting.
 
+## GitHub Pages
+
+In the GitHub repository, open **Settings → Pages** and set **Source** to **GitHub Actions**. Commit and push `.github/workflows/deploy.yml` to `main`. The workflow installs dependencies, builds both pages, and publishes only `dist` at https://kim1-ryan.github.io/Portfolio/.
+
+Every subsequent push to `main` deploys automatically. You can also run **Deploy portfolio to GitHub Pages** manually from the Actions tab. Do not publish the repository root: its HTML points to JSX source that needs Vite to compile it first.
+
 ## Project structure
 
 - `src/main.jsx` mounts React.
