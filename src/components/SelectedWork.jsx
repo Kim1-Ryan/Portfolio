@@ -17,7 +17,7 @@ export default function SelectedWork() {
 <span>UMPLEBY MOTORCYCLES</span>
 <span>Website demo / 01</span>
 </div>
-<img src="images/suzuki.webp" width="1600" height="791" alt="Umpleby Motorcycles website featuring its Suzuki motorcycle range" fetchPriority="high" />
+<img src="images/umpleby-preview.png" width="1904" height="1080" alt="Umpleby Motorcycles website featuring its Suzuki motorcycle range" fetchPriority="high" />
 <span className="image-arrow" aria-hidden="true">↗</span>
 </a>
 <div className="project-info">
