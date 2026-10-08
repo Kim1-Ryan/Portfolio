@@ -53,7 +53,7 @@ export default function SelectedWork() {
 </div>
 </article>
 <article className="project">
-<a className="project-image creatures" href="https://kim1-ryan.github.io/NATS_CREATURES/" target="_blank" rel="noopener noreferrer" aria-label="Explore Nat’s Creatures demo (opens in a new tab)">
+<a className="project-image creatures" href="https://kim1-ryan.github.io/nats-creatures/" target="_blank" rel="noopener noreferrer" aria-label="Explore Nat’s Creatures demo (opens in a new tab)">
 <div className="image-topline">
 <span>NAT’S CREATURES</span>
 <span>03</span>
@@ -65,7 +65,7 @@ export default function SelectedWork() {
 <div>
 <p className="project-category">Independent business</p>
 <h3>
-<a href="https://kim1-ryan.github.io/NATS_CREATURES/" target="_blank" rel="noopener noreferrer">Nat’s Creatures <span aria-hidden="true">↗</span>
+<a href="https://kim1-ryan.github.io/nats-creatures/" target="_blank" rel="noopener noreferrer">Nat’s Creatures <span aria-hidden="true">↗</span>
 </a>
 </h3>
 </div>
